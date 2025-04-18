@@ -1,4 +1,3 @@
-#!/bin/bash
 day="Monday"
 if [ "$day" = "Monday" ]; then
 echo "Start of the week"
