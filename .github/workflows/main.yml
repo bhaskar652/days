@@ -1,0 +1,9 @@
+#!/bin/bash
+day="Monday"
+if [ "$day" = "Monday" ]; then
+echo "Start of the week"
+elif [ "$day" = "Friday" ]; then
+echo "End of the week"
+else
+echo "Midweek"
+fi
